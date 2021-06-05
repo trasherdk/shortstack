@@ -16,6 +16,6 @@
   "devDependencies": {
     "postcss-easings": "^3.0.1",
     "postcss-preset-env": "6.7.0",
-    "wmr": "^2.2.0"
+    "wmr": "^2.2.2"
   }
 }
